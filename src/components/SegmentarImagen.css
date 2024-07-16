@@ -1,0 +1,19 @@
+.segmentar-imagen {
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.resultados {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}

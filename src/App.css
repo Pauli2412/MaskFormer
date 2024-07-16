@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('/public/image.jpg'); /* Ajusta la ruta de la imagen de fondo */
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+
